@@ -30,6 +30,7 @@ gem 'therubyracer'
 gem 'twitter-bootstrap-rails'
 
 gem 'rails_12factor'
+gem 'postmark-rails', '>= 0.10.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
